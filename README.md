@@ -1,4 +1,2 @@
 # simple-os-kernel
-Implementation of simple but completely functional kernel for multithreaded os with support for time sharing
-C++
-College project
+Implementation of simple but completely functional kernel for multithreaded os with support for time sharing in C++. College project.
