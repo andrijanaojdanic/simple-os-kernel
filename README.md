@@ -10,5 +10,7 @@ time_slice - number of time quantums that each of the producers has for producin
 
 
 ------> interrupts are simulated by key events; every time when user presses a key, producers yield to interrupt routine which displays the character that corresponds to pressed key
+
+
 ------> producers simulate system and user tasks
 
